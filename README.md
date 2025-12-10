@@ -92,21 +92,6 @@ Este documento contém:
 - Testes e resultados  
 - Diagramas e explicações
 
----
-
- Como executar
-
- 1. Importar o esquema da BD  
-Carregar os ficheiros SQL no Oracle SQL Developer ou outra ferramenta Oracle.
-
- 2. Criar as tabelas  
-Executar os scripts de criação.
-
- 3. Executar as procedures e triggers  
-Correr cada bloco PL/SQL no ambiente Oracle.
-
- 4. APEX (Opcional)  
-Importar as páginas no Oracle APEX e associar ao esquema criado.
 
 ---
 
